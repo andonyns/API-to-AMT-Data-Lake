@@ -107,11 +107,11 @@ After you have finished the above steps, you can open your localhost or http://1
 
 On the LaunchPad tab, click the Launch Run button to start the process
 
-![launch dagster job](docs/images/launch_run.jpg)
+![launch dagster job](docs/images/launch_run.JPG)
 
 In the browser you can see the progress of the execution
 
-![launch dagster job](docs/images/process_progress.jpg)
+![launch dagster job](docs/images/process_progress.JPG)
 ## Logs
 
 The log can be found in the same directory or inside the dagster home folder
